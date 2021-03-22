@@ -16,3 +16,6 @@ Work 2 required input files:
 weightage: all possibilites of weightage depeding on how many factors there are (e.g. waist, chest)
 weightage have two files, one for two factors only and the other for three factors
 size: sizes of **all factors** (e.g. waist, chest), **height** and **size taken**(to match against predicted size)
+
+Work 2 output file:
+final: contain all possible weightage and it's percentage match in decimal (e.g. chest_w:1, waist_w:1, hip_w:98, percentage_match: 0.5 which is 50% or e.g. 12/24)
