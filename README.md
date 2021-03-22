@@ -22,5 +22,5 @@ final: contain all possible weightage and it's percentage match in decimal (e.g.
 
 
 **Need Python to run script**
-1. Go into "directory" using console
+1. Go into directory of the script using console
 2. run "**$python3 work.py**" to run script
