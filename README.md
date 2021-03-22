@@ -19,3 +19,8 @@ size: sizes of **all factors** (e.g. waist, chest), **height** and **size taken*
 
 Work 2 output file:
 final: contain all possible weightage and it's percentage match in decimal (e.g. chest_w:1, waist_w:1, hip_w:98, percentage_match: 0.5 which is 50% or e.g. 12/24)
+
+
+**Need Python to run script**
+1. Go into "directory" using console
+2. run "**$python3 work.py**" to run script
